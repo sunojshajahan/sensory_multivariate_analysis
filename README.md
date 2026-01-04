@@ -4,6 +4,14 @@ This repository contains Jupyter notebooks demonstrating various statistical and
 
 The notebooks cover visualization, ANOVA, conjoint analysis, factor analysis, discriminant analysis, PCA, cluster analysis, PLS regression/DA, artificial neural networks, and fuzzy logic.
 
+## Author
+
+All the notebooks are authored by 
+[Dr. Sunoj Shajahan](https://abe.illinois.edu/directory/sunoj), 
+Assistant Professor, 
+Agricultural and Biological Engineering, 
+University of Illinois, Urbana-Champaign, Illinois, USA.
+
 ## Prerequisites
 
 Before you begin, make sure you have the following:
